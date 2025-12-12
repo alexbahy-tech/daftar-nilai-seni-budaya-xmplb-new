@@ -1,5 +1,7 @@
+// File: Code.gs
+
 // Global variables
-const SPREADSHEET_ID = '1IQRfYhpVVix1vq_eQ_hVUs5adGKyGxJjJkWA3BLlSI0'; // GANTI DENGAN ID GOOGLE SHEET ANDA
+const SPREADSHEET_ID = '1QwWR5UTUeRyKz3JNH5LbuUW6u80qa3AuC5mz0tJRBvE'; // <== GANTI DENGAN ID GOOGLE SHEET ANDA
 const SHEET_NAME = 'Sheet1';
 const SETTINGS_SHEET_NAME = 'Settings';
 
